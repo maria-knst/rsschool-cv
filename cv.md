@@ -18,10 +18,9 @@ After entering the university, I realized that I want to have a job related not 
 
 - HTML, CSS;
 - JavaScript(Basics);
-- C++,Java,Assembler,R(Basics);
-- Wolfram Matematica;
-- GitHub,Git(Basics);
-- IntelliJ IDEA, VS Code,Sublime Text;
+- C++, Java, Assembler, R(Basics);
+- GitHub, Git(Basics);
+- IntelliJ IDEA, VS Code, Sublime Text;
 
 
 ### __Example of my code:__
@@ -42,8 +41,8 @@ function squareDigits(num){
 
 ### __Education:__
 
-* BSU,FAMCS,2023;
-* Free marathon in HTML,CSS from WayUP([My progect]( https://maria-knst.github.io/MySecondRepo/))
+* BSU, FAMCS, 2023;
+* Free marathon in HTML, CSS from WayUP([My progect]( https://maria-knst.github.io/MySecondRepo/))
 
 
 ### __Languages:__
