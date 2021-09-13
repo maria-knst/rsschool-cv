@@ -11,11 +11,8 @@
 
 
 ### __Info about myself:__
-(Пока на русском)
-Меня всегда увлекало занятие математикой и программированием. Кроме этого, я безумно люблю творчество и рисование.
-В качестве своих сильных сторон могу отметить усидчивость, ответственность, вежливость, внимательность.  
-После поступления в вуз, я поняла, что хочу иметь работу, связанную не только с коддингом, но и с творчеством и контактированием с людьми. JavaScript и Web-разработка это то, что максимально заинтересовало меня. Заниматься и узнавать новое в этом направлении я начала летом 2021 года. Верстка это действительно очень интересное направление, я чувствую, что это занятие для меня. Я готова учиться, осваивать новые фреймворки, методологии. Моя цель – не только выучить данный язык и пойти работать, но и каждый день, вместе с появлением новых технологий и методов, усовершенствовать свои знания и идти вперед!
-
+I have always been fascinated by math and programming. In addition, I am madly in love with creativity and drawing. As my strengths, I can mention perseverance, responsibility, politeness, attentiveness.
+After entering the university, I realized that I want to have a job related not only to coding, but also to creativity and contact with people. JavaScript and Web development is what got me most interested. I began to study and learn new things in this direction in the summer of 2021. Layout is really a very interesting direction, I feel that this is an occupation for me. I am ready to learn, master new frameworks, methodologies. My goal is not only to learn this language and go to work, but every day, along with the emergence of new technologies and methods, improve my knowledge and move forward!
 
 ### __My skills:__
 
