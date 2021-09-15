@@ -54,15 +54,13 @@ body{
 }
 
 .separator{
+    margin: 50px 0;
     width: 90%;
     line-height: 90%;
     border-bottom: 2px solid rgb(85, 32, 2);
 }
-.separator1{
-    width: 90%;
+.first{
     float: right;
-    line-height: 90%;
-    border-bottom: 2px solid rgb(85, 32, 2);
 }
 
 
@@ -105,3 +103,17 @@ body{
     margin: 20px;
 }
 
+.title-code{
+    margin-top: 50px;
+}
+.jsimage{
+    max-width: 100px;
+    margin-top: 20px;
+}
+.code{
+    padding: auto 20px;
+    font-family: monospace;
+    background: -webkit-linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
+    background: -moz-linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
+    background: linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
+}
