@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(212, 161, 94);
+    background-color: rgb(229, 192, 143);
 }
 
 .center{
@@ -10,7 +10,6 @@ body{
     box-shadow: 20px 20px 20px 20px rgb(148, 130, 116);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
 .container{
     display: flex;
 }
@@ -55,7 +54,54 @@ body{
 }
 
 .separator{
-    width: 90%;;
+    width: 90%;
     line-height: 90%;
     border-bottom: 2px solid rgb(85, 32, 2);
 }
+.separator1{
+    width: 90%;
+    float: right;
+    line-height: 90%;
+    border-bottom: 2px solid rgb(85, 32, 2);
+}
+
+
+.skills-and-edu{
+    display: flex;
+}
+.skills{
+    width: 50%;
+}
+.education{
+    width: 50%;
+}
+
+
+
+.rounded {
+    counter-reset: li; 
+    list-style: none; 
+    font: 14px "Trebuchet MS", "Lucida Sans";
+    padding: 0;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+.rounded li {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    margin: .5em .5em;
+    background: rgb(229, 192, 143);
+    color: #444;
+    text-decoration: none;
+    border-radius: .3em;
+    transition: .3s ease-out;
+}
+.title{
+    font-size: x-large;
+    margin-top: 0px;
+}
+
+.code-exmpl{
+    margin: 20px;
+}
+
