@@ -2,8 +2,8 @@ body{
     background-color: rgb(229, 192, 143);
 }
 
+
 .center{
-    padding: 10px 24px;
     margin: 25px auto;
     max-width: 1024px;
     background-color: white;
@@ -15,6 +15,14 @@ body{
 }
 
 
+header{
+    padding: 10px 24px;
+}
+.main{
+    padding: 10px 24px;
+}
+
+
 .title-name{
     width: 45%;
     padding: 10px;
@@ -22,7 +30,7 @@ body{
 }
 .social-net{
     width: 55%;
-    border-bottom: 2px solid rgb(85, 32, 2);
+    border-bottom: 2px solid rgb(63, 46, 35);
 }
 .wrap-s{
     display: flex;
@@ -46,7 +54,7 @@ body{
 }
 .title-about{
     line-height: 90%;
-    border-bottom: 2px solid rgb(85, 32, 2);
+    border-bottom: 2px solid rgb(63, 46, 35);
     font-size: xx-large;
 }
 .wrapper{
@@ -57,7 +65,7 @@ body{
     margin: 50px 0;
     width: 90%;
     line-height: 90%;
-    border-bottom: 2px solid rgb(85, 32, 2);
+    border-bottom: 2px solid rgb(63, 46, 35);
 }
 .first{
     float: right;
@@ -116,4 +124,44 @@ body{
     background: -webkit-linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
     background: -moz-linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
     background: linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
+}
+
+
+.footer-container{
+    padding: 0;
+    display: flex;
+    color:  white;
+    background-color: rgb(63, 46, 35);
+}
+
+.rs-image{
+    width: 100px;
+}
+.git-image{
+    max-width: 100px;
+}
+
+.contact-info{
+    width: 40%;
+}
+.rs-image{
+    width: 25%;
+}
+.git-image{
+    width: 25%;
+}
+.start-agane{
+    width: 10%;
+}
+
+
+
+
+
+
+.year{
+    background-color: rgb(63, 46, 35);
+    color: white;
+    display: flex;
+    justify-content: center;
 }
