@@ -134,41 +134,46 @@ header{
     background: linear-gradient(90deg, rgb(229, 192, 143), rgb(254, 255, 255) 33%);
 }
 
+.title-languages{
+    text-align: center;
+    font-size: x-large;
+    text-shadow: chocolate;
+    line-height: 90%;
+    border-bottom: 2px solid rgb(63, 46, 35);
+}
+
+.lang-ul{
+    text-decoration: none;
+    list-style-type: square;
+}
+
+
+
+
 
 .footer-container{
     padding: 0;
     display: flex;
-    justify-content: center;
+    justify-content:space-between;
     color:  black;
     background-color: rgb(172, 143, 105);
 }
 
-
-
-
-
-
 .contact-info{
-    width: 45%;
+    width: 25%;
 }
 .rs-image{
     max-width: 100px;
 
-    width: 30%;
+    width: 40%;
     margin: 5px;
     margin-left: 60px;
     align-items:center;
 }
 .git-image{
     max-width: 100px;
-
-    width: 25%;
+    width: 10%;
     margin: 5px;
-}
-.start-agane{
-    width: 30%;
-    text-align: end;
-    padding: 5px;
 }
 
 
