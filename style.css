@@ -34,9 +34,14 @@ header{
 }
 .wrap-s{
     display: flex;
-    margin-right: 0%;
-    margin-left: 60%;
-    margin-top: 15%; 
+    justify-content: end;
+    margin-top: 10%;
+}
+.s{
+    margin: 10px 0px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
 }
 
 
@@ -130,38 +135,46 @@ header{
 .footer-container{
     padding: 0;
     display: flex;
-    color:  white;
-    background-color: rgb(63, 46, 35);
+    justify-content: center;
+    color:  black;
+    background-color: rgb(172, 143, 105);
 }
 
+
+
+
+
+
+.contact-info{
+    width: 45%;
+}
 .rs-image{
-    width: 100px;
+    max-width: 100px;
+
+    width: 30%;
+    margin: 5px;
+    margin-left: 60px;
+    align-items:center;
 }
 .git-image{
     max-width: 100px;
-}
 
-.contact-info{
-    width: 40%;
-}
-.rs-image{
     width: 25%;
-}
-.git-image{
-    width: 25%;
+    margin: 5px;
 }
 .start-agane{
-    width: 10%;
+    width: 30%;
+    text-align: end;
+    padding: 5px;
 }
-
 
 
 
 
 
 .year{
-    background-color: rgb(63, 46, 35);
-    color: white;
+    background-color: black;
+    color: rgb(172, 143, 105);
     display: flex;
     justify-content: center;
 }
