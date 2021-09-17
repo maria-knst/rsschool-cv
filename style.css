@@ -43,7 +43,15 @@ header{
     text-align: center;
     text-decoration: none;
 }
-
+.s:link{
+    color:black;
+}
+.s:active{
+    color: #3F2E23;
+}
+.s:visited{
+    color: #E5C08F;
+}
 
 
 .title-image{
